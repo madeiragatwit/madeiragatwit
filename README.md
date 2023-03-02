@@ -30,7 +30,7 @@ The aspects of Computer Science I enjoy the most involve creating UI/UX and deve
 - Python
 
 ## Projects I've Worked On
-- AppliTrack
-- Plastic Pollution Predictor
-- Trivia Game
-- Battleship
+- AppliTrack: A website created for keeping track of job applications and information related to them.
+- Plastic Pollution Predictor: A simple linear regression model that predicts plastic waste contribution of a made-up country.
+- Trivia Game: A trivia game created with java and HTML that allows you to connect to another player in a lobby and compete against each other to answer multiple choice questions.
+- Battleship: A simple recreation of battleship using HTML and Java where you play against a very simple opponent.
