@@ -30,7 +30,8 @@ The aspects of Computer Science I enjoy the most involve creating UI/UX and deve
 - Python
 
 ## Projects I've Worked On
-- ***FlyBuddy(WIP):*** An android app that allows you to add friends and share your flight location so that you are able to see friends as they travel by plane.
+- ***Travelyze:*** An android app that educates users on countries they are interested in or didn't know about by utilizing the OpenAI GPT-3.5 model to provide condensed and more readable information. 
+- ***FlyBuddy:*** An android app that allows you to add friends and share your flight location so that you are able to see friends as they travel by plane.
 - ***Recipe Tracker:*** A website created for people are getting into cooking and want to keep track of any recipes they want to make or already made.
 - ***AppliTrack:*** A website created for keeping track of job applications and information related to them.
 - ***Plastic Pollution Predictor:*** A simple linear regression model that predicts plastic waste contribution of a made-up country.
