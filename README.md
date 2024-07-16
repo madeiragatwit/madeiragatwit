@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a senior at Wentworth Institute of Technology studying with a major in Computer Science and a minor in Applied Mathematics. I enjoy working with others to create cool projects and seeing our hard work come together.
+I am a gradute from Wentworth Institute of Technology with a BS in Computer Science and a minor in Applied Mathematics. I enjoy working with others to create cool projects and seeing our hard work come together.
 
 I'm always interested in learning something new even though I may not have had experience with it before. I also enjoy learning all the different aspects of Computer Science and what tasks different jobs within the industry involve.
 
@@ -28,6 +28,10 @@ The aspects of Computer Science I enjoy the most involve creating UI/UX and deve
 - HTML5
 - CSS
 - Python
+- Javascript
+- React.js
+- SQL
+  
 
 ## Projects I've Worked On
 - ***Travelyze:*** An android app that educates users on countries they are interested in or didn't know about by utilizing the OpenAI GPT-3.5 model to provide condensed and more readable information. 
